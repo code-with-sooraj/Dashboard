@@ -1,0 +1,25 @@
+{
+  "registrations": [
+    { "id": 1, "name": "Aditi Sharma", "department": "CSE" },
+    { "id": 2, "name": "Rohan Mehta", "department": "ECE" },
+    { "id": 3, "name": "Sneha Patel", "department": "ME" }
+  ],
+  "events": [
+    { "id": 1, "name": "Hackathon", "date": "2025-11-20" },
+    { "id": 2, "name": "Workshop", "date": "2025-12-05" }
+  ],
+  "analytics": {
+    "attendance": [
+      { "month": "Jan", "attendance": 85 },
+      { "month": "Feb", "attendance": 90 },
+      { "month": "Mar", "attendance": 87 },
+      { "month": "Apr", "attendance": 92 }
+    ],
+    "participation": [
+      { "event": "Workshop", "participants": 120 },
+      { "event": "Seminar", "participants": 80 },
+      { "event": "Hackathon", "participants": 150 },
+      { "event": "Cultural Fest", "participants": 200 }
+    ]
+  }
+}
